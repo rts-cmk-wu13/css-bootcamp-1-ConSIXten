@@ -19,7 +19,7 @@ li{
 .img--placement{
     position: relative;
     float: right;
-    top: -22rem
+    top: -21rem
 }
 
 h3{
@@ -33,4 +33,3 @@ section{
 li:last-child {
     background-color: yellow;
   }
-  
