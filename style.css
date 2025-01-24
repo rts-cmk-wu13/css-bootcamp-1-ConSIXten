@@ -1,0 +1,31 @@
+html{
+    font-family: 'Princess_Sofia', Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: cyan;
+}
+
+@font-face {
+    font-family: 'Princess_Sofia';
+    font-style: normal;
+    src: url(/font/Princess_Sofia/PrincessSofia-Regular.ttf);
+}
+
+li{
+    font-family: 'Segoe UI';
+}
+
+.img--placement{
+    position: relative;
+    float: right;
+    top: -22rem
+}
+
+h3{
+    color: brown;
+}
+
+section{
+    margin-block-start: 10rem;
+}
