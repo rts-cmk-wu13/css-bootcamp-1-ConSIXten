@@ -19,7 +19,8 @@ li{
 .img--placement{
     position: relative;
     float: right;
-    top: -21rem
+    top: -21.2rem;
+    margin-right: 75rem;
 }
 
 h3{
